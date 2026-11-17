@@ -1,0 +1,7 @@
+{
+  "name": "viral-creative-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The English Viral frontend, adapted from idore_tools.",
+  "scripts": {"dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory website", "build": "node build.mjs"}
+}

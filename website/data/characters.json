@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "items": [
+    {
+      "id": "kai",
+      "name": "KAI",
+      "material_group": "male",
+      "cast_type": "solo",
+      "image_url": "reference-assets/kai-full.png",
+      "enabled": true
+    }
+  ]
+}

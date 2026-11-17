@@ -1,0 +1,2175 @@
+{
+  "collector": "chatgpt_work",
+  "videos": [
+    {
+      "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+      "title": "Meow — solo close-up lip sync",
+      "kind": "pov",
+      "original_watched": true,
+      "motion_summary": "One seated performer faces the camera, moving from a neutral expression to an open mouth and smile with slight head movement; approximately 5 seconds.",
+      "checks": {
+        "fixed_camera": null,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "Mostly stable close-up framing, an unobstructed face, and small movements suit character expression and lip-sync driving. The footage alone does not confirm that the camera is fixed. No generation test has been run.",
+      "published_at": null,
+      "published_text": "6d ago",
+      "metrics": {
+        "comments": 2107,
+        "likes": 519300,
+        "shares": 105800,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Previously played and verified in this task: JAY faces the camera alone, lip-syncing to the same audio with a few hand gestures. Framing and posture differ from the main clip. Only one other creator is listed, below the three-creator verification threshold."
+        }
+      ],
+      "music_name": "original sound - dailytungstenballsack",
+      "id": "tiktok-7704859708200389902",
+      "video_id": "7704859708200389902",
+      "author": "houstontruman",
+      "kinds": [
+        "pov"
+      ],
+      "first_seen_at": "2026-11-12T01:31:04+00:00",
+      "last_seen_at": "2026-11-12T01:31:04+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "One seated performer faces the camera, moving from a neutral expression to an open mouth and smile with slight head movement; approximately 5 seconds.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T013104Z-7704859708200389902",
+          "observed_at": "2026-11-12T01:31:04+00:00",
+          "metrics": {
+            "comments": 2107,
+            "likes": 519300,
+            "shares": 105800,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "One seated performer faces the camera, moving from a neutral expression to an open mouth and smile with slight head movement; approximately 5 seconds.",
+          "checks": {
+            "fixed_camera": null,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "Mostly stable close-up framing, an unobstructed face, and small movements suit character expression and lip-sync driving. The footage alone does not confirm that the camera is fixed. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: JAY faces the camera alone, lip-syncing to the same audio with a few hand gestures. Framing and posture differ from the main clip. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "unknown",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one seated performer opens the mouth, smiles, and raises the eyes in close-up, wearing a dark outer layer over a light crew-neck top. The motion and clothing do not establish a requirement for male or female character assets; material group remains unconfirmed. Gender identity is not inferred from face or name."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "unknown",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one seated performer opens the mouth, smiles, and raises the eyes in close-up, wearing a dark outer layer over a light crew-neck top. The motion and clothing do not establish a requirement for male or female character assets; material group remains unconfirmed. Gender identity is not inferred from face or name."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@charlotteseet/video/7703871221569424661",
+      "title": "Palm-cover outfit transition",
+      "kind": "transition",
+      "original_watched": true,
+      "motion_summary": "One performer in pink pajamas and hair rollers sweeps both hands across the face and camera, then changes to a gray off-shoulder sweater and styled hair; approximately 14 seconds.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "Generate separate before-and-after outfit clips, then cut where the palms cover the lens to reduce the difficulty of continuous clothing generation. Keep poses and backgrounds consistent. The original is labeled Paid partnership. No generation test has been run.",
+      "published_at": null,
+      "published_text": "11-3",
+      "metrics": {
+        "comments": 29,
+        "likes": 14200,
+        "shares": 334,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@floor_vandermeer/video/7705770462084664608",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Previously played and verified in this task: the same audio and hand-cover transition lead to red hair and black clothing. This is a hair-color variation, not identical outfit content. Only one other creator is listed, below the three-creator verification threshold."
+        }
+      ],
+      "music_name": "original sound - editsbykaj",
+      "id": "tiktok-7703871221569424661",
+      "video_id": "7703871221569424661",
+      "author": "charlotteseet",
+      "kinds": [
+        "transition"
+      ],
+      "first_seen_at": "2026-11-12T01:31:04+00:00",
+      "last_seen_at": "2026-11-12T01:31:04+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@charlotteseet/video/7703871221569424661",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "One performer in pink pajamas and hair rollers sweeps both hands across the face and camera, then changes to a gray off-shoulder sweater and styled hair; approximately 14 seconds.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T013104Z-7704859708200389902",
+          "observed_at": "2026-11-12T01:31:04+00:00",
+          "metrics": {
+            "comments": 29,
+            "likes": 14200,
+            "shares": 334,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "One performer in pink pajamas and hair rollers sweeps both hands across the face and camera, then changes to a gray off-shoulder sweater and styled hair; approximately 14 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "Generate separate before-and-after outfit clips, then cut where the palms cover the lens to reduce the difficulty of continuous clothing generation. Keep poses and backgrounds consistent. The original is labeled Paid partnership. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@floor_vandermeer/video/7705770462084664608",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: the same audio and hand-cover transition lead to red hair and black clothing. This is a hair-color variation, not identical outfit content. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "female",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one performer changes from pink plaid pajamas and forehead rollers to a gray off-shoulder sweater, styled long hair, and earrings, then raises both hands and gestures beside the face. Assigned to female character assets for this womenswear styling route. No claim is made about the person's gender identity."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "female",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one performer changes from pink plaid pajamas and forehead rollers to a gray off-shoulder sweater, styled long hair, and earrings, then raises both hands and gestures beside the face. Assigned to female character assets for this womenswear styling route. No claim is made about the person's gender identity."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+      "title": "Cow Makeup — costume transformation",
+      "kind": "transition",
+      "original_watched": true,
+      "motion_summary": "One performer faces the camera in an everyday look, with a cow-makeup reference image overlaid. The look changes to black-and-white spotted makeup, a wig, and a cow outfit, with pouting and small hand movements curled at the chest; approximately 15 seconds.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "Create consistent before-and-after makeup looks, generate short motion clips separately, then edit them together. Check facial markings, character identity, and clothing consistency. No generation test has been run.",
+      "published_at": null,
+      "published_text": "15h ago",
+      "metrics": {
+        "comments": 480,
+        "likes": 27500,
+        "shares": 907,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Previously played and verified in this task: RYN also uses the same audio, cow-makeup reference image, and before-and-after styling, with a different headscarf. The main clip publicly credits ib:@RYN. Only one other creator is listed, below the three-creator verification threshold."
+        }
+      ],
+      "music_name": "suara asli - RYN",
+      "id": "tiktok-7706856820337282324",
+      "video_id": "7706856820337282324",
+      "author": "raeinhyer",
+      "kinds": [
+        "transition"
+      ],
+      "first_seen_at": "2026-11-12T01:31:04+00:00",
+      "last_seen_at": "2026-11-12T01:31:04+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "One performer faces the camera in an everyday look, with a cow-makeup reference image overlaid. The look changes to black-and-white spotted makeup, a wig, and a cow outfit, with pouting and small hand movements curled at the chest; approximately 15 seconds.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T013104Z-7704859708200389902",
+          "observed_at": "2026-11-12T01:31:04+00:00",
+          "metrics": {
+            "comments": 480,
+            "likes": 27500,
+            "shares": 907,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "One performer faces the camera in an everyday look, with a cow-makeup reference image overlaid. The look changes to black-and-white spotted makeup, a wig, and a cow outfit, with pouting and small hand movements curled at the chest; approximately 15 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "Create consistent before-and-after makeup looks, generate short motion clips separately, then edit them together. Check facial markings, character identity, and clothing consistency. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: RYN also uses the same audio, cow-makeup reference image, and before-and-after styling, with a different headscarf. The main clip publicly credits ib:@RYN. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "female",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: the same performer changes from a gray top to a doll-like look with a long wig, cow-ear-and-horn headpiece, black-and-white cow-print outfit, and exaggerated eye makeup. Assigned to female character assets for this styling route; the two looks do not require both male and female characters. The overlaid makeup illustration is not a second performer. No gender identity is inferred."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "female",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: the same performer changes from a gray top to a doll-like look with a long wig, cow-ear-and-horn headpiece, black-and-white cow-print outfit, and exaggerated eye makeup. Assigned to female character assets for this styling route; the two looks do not require both male and female characters. The overlaid makeup illustration is not a second performer. No gender identity is inferred."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@shelbyjanero/video/7706775425162300702",
+      "title": "Eat it up — solo arm-swing dance",
+      "kind": "hands",
+      "original_watched": true,
+      "motion_summary": "With a fixed camera, one performer sways shoulders and hips in place, crosses the forearms, lowers the hands, and waves side to side while repeatedly facing the camera; approximately 14 seconds.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": true,
+        "solo": true
+      },
+      "recreation_notes": "Suitable for a motion-transfer test using the original as the reference, preserving body rhythm while replacing the character. Check crossed arms, hands, and body edges. This is a recent recreation of an older pattern, not a new trend this week. No generation test has been run.",
+      "published_at": null,
+      "published_text": "20h ago",
+      "metrics": {
+        "comments": 5,
+        "likes": 228,
+        "shares": 1,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@notaudrina26/video/7686951860804308237",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Previously played and verified in this task: Audrina's two-person version uses the same audio and crossed-arm swing, with other people in the background. The page shows 9-19, demonstrating that this pattern did not first appear this week. Only one other creator is listed, below the three-creator verification threshold."
+        }
+      ],
+      "music_name": "original sound - Audrina",
+      "id": "tiktok-7706775425162300702",
+      "video_id": "7706775425162300702",
+      "author": "shelbyjanero",
+      "kinds": [
+        "hands"
+      ],
+      "first_seen_at": "2026-11-12T01:31:04+00:00",
+      "last_seen_at": "2026-11-12T01:31:04+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@shelbyjanero/video/7706775425162300702",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Motion candidate with original watched",
+      "assessment_note": "With a fixed camera, one performer sways shoulders and hips in place, crosses the forearms, lowers the hands, and waves side to side while repeatedly facing the camera; approximately 14 seconds.",
+      "motion_verified": true,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T013104Z-7704859708200389902",
+          "observed_at": "2026-11-12T01:31:04+00:00",
+          "metrics": {
+            "comments": 5,
+            "likes": 228,
+            "shares": 1,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "With a fixed camera, one performer sways shoulders and hips in place, crosses the forearms, lowers the hands, and waves side to side while repeatedly facing the camera; approximately 14 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": true,
+            "solo": true
+          },
+          "recreation_notes": "Suitable for a motion-transfer test using the original as the reference, preserving body rhythm while replacing the character. Check crossed arms, hands, and body edges. This is a recent recreation of an older pattern, not a new trend this week. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@notaudrina26/video/7686951860804308237",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: Audrina's two-person version uses the same audio and crossed-arm swing, with other people in the background. The page shows 9-19, demonstrating that this pattern did not first appear this week. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "motion_verified": true,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "female",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one performer in a kitchen wears a black thin-strap crop top and gray sweatpants, swinging both arms and fists. Assigned to female character assets based on the thin-strap womenswear styling route. This is a material-use suggestion, not a judgment about the person's gender identity."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "female",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one performer in a kitchen wears a black thin-strap crop top and gray sweatpants, swinging both arms and fists. Assigned to female character assets based on the thin-strap womenswear styling route. This is a material-use suggestion, not a judgment about the person's gender identity."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@rosariodecre/video/7703530440023444769",
+      "title": "Bicep Heart — bent-arm hand heart",
+      "kind": "hands",
+      "original_watched": true,
+      "motion_summary": "The frame focuses on one person's upper arms and hands, flexing the elbows to display the upper arms before forming a heart above them with both hands; approximately 7 seconds.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "A stable background, short duration, and clear final pose support key-pose constraints. Finger contact and bent wrists are difficult; test this after expression and outfit transitions. No generation test has been run.",
+      "published_at": null,
+      "published_text": "11-2",
+      "metrics": {
+        "comments": 448,
+        "likes": 76300,
+        "shares": 18600,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@pyaephyozaw870/video/7704245075324194069",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Previously played and verified in this task: with the same audio, the performer flexes the arms and then forms a heart with both hands; clothing and background differ. Only one other creator is listed, below the three-creator verification threshold."
+        }
+      ],
+      "music_name": "âm thanh gốc - Chris Pham",
+      "id": "tiktok-7703530440023444769",
+      "video_id": "7703530440023444769",
+      "author": "rosariodecre",
+      "kinds": [
+        "hands"
+      ],
+      "first_seen_at": "2026-11-12T01:31:04+00:00",
+      "last_seen_at": "2026-11-12T01:31:04+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@rosariodecre/video/7703530440023444769",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "The frame focuses on one person's upper arms and hands, flexing the elbows to display the upper arms before forming a heart above them with both hands; approximately 7 seconds.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T013104Z-7704859708200389902",
+          "observed_at": "2026-11-12T01:31:04+00:00",
+          "metrics": {
+            "comments": 448,
+            "likes": 76300,
+            "shares": 18600,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "The frame focuses on one person's upper arms and hands, flexing the elbows to display the upper arms before forming a heart above them with both hands; approximately 7 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "A stable background, short duration, and clear final pose support key-pose constraints. Finger contact and bent wrists are difficult; test this after expression and outfit transitions. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@pyaephyozaw870/video/7704245075324194069",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: with the same audio, the performer flexes the arms and then forms a heart with both hands; clothing and background differ. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "unknown",
+          "subject_group": "unknown",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: a tight crop shows bare shoulders and arms, flexed elbows, and hands forming a heart, with most of the body and head out of frame. It is unconfirmed whether all arms belong to one person; cast remains unknown. The strength pose and gesture do not require male or female character assets. No gender identity is inferred."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "unknown",
+        "subject_group": "unknown",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: a tight crop shows bare shoulders and arms, flexed elbows, and hands forming a heart, with most of the body and head out of frame. It is unconfirmed whether all arms belong to one person; cast remains unknown. The strength pose and gesture do not require male or female character assets. No gender identity is inferred."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@kimbirchwood/video/7705213331916770590",
+      "title": "Meow — close-up lip sync, from side glance to camera",
+      "kind": "pov",
+      "original_watched": true,
+      "motion_summary": "Approximately 5 seconds: one performer sits in close-up in front of a sofa, switching between side glances, frowning, an open mouth, and facing-camera lip sync, with slight head turns. Framing scale and background composition change.",
+      "checks": {
+        "fixed_camera": false,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "An unobstructed face and limited body motion support a character expression and lip-sync test. Use fixed framing to reduce difficulty from the original's camera changes. No generation test has been run.",
+      "published_at": null,
+      "published_text": "5d ago",
+      "metrics": {
+        "comments": 2592,
+        "likes": 1200000,
+        "shares": 157700,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Replayed this run: with the same audio, one performer in close-up moves from a closed mouth to an open-mouth smile and slightly turns the head. It shares the short expressive lip-sync format, but the main clip's side glance and frown are stronger; expressions and frame-by-frame movements are not identical. The page shows 6d ago."
+        },
+        {
+          "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Replayed this run: one performer turns from a side view to the camera and opens the mouth to lip-sync for approximately 5 seconds. It shares the same audio and short expressive lip-sync format, but standing medium framing and posture differ from the main seated close-up. The page shows 2d ago."
+        }
+      ],
+      "music_name": "original sound - dailytungstenballsack",
+      "id": "tiktok-7705213331916770590",
+      "video_id": "7705213331916770590",
+      "author": "kimbirchwood",
+      "kinds": [
+        "pov"
+      ],
+      "first_seen_at": "2026-11-12T14:06:58+00:00",
+      "last_seen_at": "2026-11-12T14:06:58+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@kimbirchwood/video/7705213331916770590",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "Approximately 5 seconds: one performer sits in close-up in front of a sofa, switching between side glances, frowning, an open mouth, and facing-camera lip sync, with slight head turns. Framing scale and background composition change.",
+      "motion_verified": false,
+      "trend_verified": true,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T140658Z-d02c989e",
+          "observed_at": "2026-11-12T14:06:58+00:00",
+          "metrics": {
+            "comments": 2592,
+            "likes": 1200000,
+            "shares": 157700,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 5 seconds: one performer sits in close-up in front of a sofa, switching between side glances, frowning, an open mouth, and facing-camera lip sync, with slight head turns. Framing scale and background composition change.",
+          "checks": {
+            "fixed_camera": false,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "An unobstructed face and limited body motion support a character expression and lip-sync test. Use fixed framing to reduce difficulty from the original's camera changes. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Replayed this run: with the same audio, one performer in close-up moves from a closed mouth to an open-mouth smile and slightly turns the head. It shares the short expressive lip-sync format, but the main clip's side glance and frown are stronger; expressions and frame-by-frame movements are not identical. The page shows 6d ago."
+            },
+            {
+              "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Replayed this run: one performer turns from a side view to the camera and opens the mouth to lip-sync for approximately 5 seconds. It shares the same audio and short expressive lip-sync format, but standing medium framing and posture differ from the main seated close-up. The page shows 2d ago."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": true
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "unknown",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one performer sits on a sofa by a window, wearing a dark crew-neck top and pendant, smiling and opening the mouth in close-up. No styling requirement for male or female character assets was established; material group remains unconfirmed. Gender identity is not inferred from face, hair, or name."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "unknown",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one performer sits on a sofa by a window, wearing a dark crew-neck top and pendant, smiling and opening the mouth in close-up. No styling requirement for male or female character assets was established; material group remains unconfirmed. Gender identity is not inferred from face, hair, or name."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@anyelirrrr_/video/7705022159990607156",
+      "title": "Cow Makeup — spotted makeup and headscarf transformation",
+      "kind": "transition",
+      "original_watched": true,
+      "motion_summary": "Approximately 15 seconds: one performer in a striped top and burgundy headscarf appears with a cow-makeup reference image overlaid, lip-syncing with bent wrists at the chest, then changing to black-and-white facial spots and a brown-and-white spotted headscarf, turning the head to show the makeup.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "The close-up and background are mostly stable. Create separate before-and-after character looks and edit them together. Check markings, facial identity, and headscarf consistency; hand poses at the transition can be simplified. No generation test has been run.",
+      "published_at": null,
+      "published_text": "6d ago",
+      "metrics": {
+        "comments": 2972,
+        "likes": 1100000,
+        "shares": 38400,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Before-and-after styling replayed this run: the same cow-makeup reference image, lip sync, and styling transition, ending with bent wrists at the chest. Cow-ear accessories, long hair, and a cow outfit differ from the main clip's headscarf version. The page shows 1d ago."
+        },
+        {
+          "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Before-and-after styling replayed this run: the same reference image is overlaid; lip sync and bent-hand gestures precede spotted cow makeup and a patterned headscarf. Makeup details and clothing differ. Page date 11-3 is outside the preferred seven-day window and is preserved as shown."
+        },
+        {
+          "url": "https://www.tiktok.com/@nafisafidela_2/video/7705397197134744884",
+          "original_watched": true,
+          "same_pattern": false,
+          "note": "Played this run: the performer first lip-syncs with a blanket over the head, then changes to a cartoon cow on a grassy background, with facial eyes and mouth mapped onto the cartoon and arms raised. Although the audio is shared, this is not a cow-makeup before-and-after reveal and does not count toward the same-pattern creator total. The page shows 5d ago."
+        }
+      ],
+      "music_name": "suara asli - RYN",
+      "id": "tiktok-7705022159990607156",
+      "video_id": "7705022159990607156",
+      "author": "anyelirrrr_",
+      "kinds": [
+        "transition"
+      ],
+      "first_seen_at": "2026-11-12T14:06:58+00:00",
+      "last_seen_at": "2026-11-12T14:06:58+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@anyelirrrr_/video/7705022159990607156",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "Approximately 15 seconds: one performer in a striped top and burgundy headscarf appears with a cow-makeup reference image overlaid, lip-syncing with bent wrists at the chest, then changing to black-and-white facial spots and a brown-and-white spotted headscarf, turning the head to show the makeup.",
+      "motion_verified": false,
+      "trend_verified": true,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261112T140658Z-d02c989e",
+          "observed_at": "2026-11-12T14:06:58+00:00",
+          "metrics": {
+            "comments": 2972,
+            "likes": 1100000,
+            "shares": 38400,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 15 seconds: one performer in a striped top and burgundy headscarf appears with a cow-makeup reference image overlaid, lip-syncing with bent wrists at the chest, then changing to black-and-white facial spots and a brown-and-white spotted headscarf, turning the head to show the makeup.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "The close-up and background are mostly stable. Create separate before-and-after character looks and edit them together. Check markings, facial identity, and headscarf consistency; hand poses at the transition can be simplified. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Before-and-after styling replayed this run: the same cow-makeup reference image, lip sync, and styling transition, ending with bent wrists at the chest. Cow-ear accessories, long hair, and a cow outfit differ from the main clip's headscarf version. The page shows 1d ago."
+            },
+            {
+              "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Before-and-after styling replayed this run: the same reference image is overlaid; lip sync and bent-hand gestures precede spotted cow makeup and a patterned headscarf. Makeup details and clothing differ. Page date 11-3 is outside the preferred seven-day window and is preserved as shown."
+            },
+            {
+              "url": "https://www.tiktok.com/@nafisafidela_2/video/7705397197134744884",
+              "original_watched": true,
+              "same_pattern": false,
+              "note": "Played this run: the performer first lip-syncs with a blanket over the head, then changes to a cartoon cow on a grassy background, with facial eyes and mouth mapped onto the cartoon and arms raised. Although the audio is shared, this is not a cow-makeup before-and-after reveal and does not count toward the same-pattern creator total. The page shows 5d ago."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": true
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "female",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one performer begins with a burgundy head wrap and striped top, raising both fists, then changes to a pale brown cow-print scarf, spotted makeup, pronounced eyelashes, and lip makeup. Assigned to the female-character styling route based on the scarf-and-makeup combination. The reference illustration is not another performer. No claim is made about the person's gender identity."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "female",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one performer begins with a burgundy head wrap and striped top, raising both fists, then changes to a pale brown cow-print scarf, spotted makeup, pronounced eyelashes, and lip makeup. Assigned to the female-character styling route based on the scarf-and-makeup combination. The reference illustration is not another performer. No claim is made about the person's gender identity."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@bizzyboom/video/7706633304702848276",
+      "title": "Solo alternating arm-swing dance",
+      "kind": "hands",
+      "original_watched": true,
+      "motion_summary": "Approximately 6 seconds: one performer faces a fixed camera, alternately swinging the arms diagonally left and right at chest level, with one hand near the shoulder and the other at the waist as the body sways. The clip ends with both hands lowered in front.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": true,
+        "solo": true
+      },
+      "recreation_notes": "A stable background, solo medium shot, and short duration make this suitable for a character motion-transfer test. Check fingers, forearm occlusion, and body rhythm during alternating arm swings, leaving enough hand framing. No generation test has been run.",
+      "published_at": null,
+      "published_text": "2d ago",
+      "metrics": {
+        "comments": 15,
+        "likes": 6190,
+        "shares": 360,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@katseyeworld/video/7686164240134114591",
+          "original_watched": true,
+          "same_pattern": false,
+          "note": "Key segments played this run: one standing performer places hands at the waist, raises one arm, and sways for approximately 15 seconds. The main clip's alternating left-right arm sequence was not shown; shared audio alone does not establish the same pattern. The page date is 9-17, outside the 30-day window; retained only as a historical difference comparison."
+        },
+        {
+          "url": "https://www.tiktok.com/@nianaguerrero/video/7687238571991911700",
+          "original_watched": true,
+          "same_pattern": null,
+          "note": "Approximately 6 seconds of original key frames were played: a solo outdoor lead dancer points sideways at chest level, swings the arms, and sways, with passersby in the background. Some arm movements resemble the main clip, but the complete motion order was not sufficiently confirmed; marked unverified. Page date 9-19 is outside the 30-day window; historical comparison only."
+        }
+      ],
+      "music_name": "sonido original - ElRolitas",
+      "id": "tiktok-7706633304702848276",
+      "video_id": "7706633304702848276",
+      "author": "bizzyboom",
+      "kinds": [
+        "hands"
+      ],
+      "first_seen_at": "2026-11-13T14:10:41+00:00",
+      "last_seen_at": "2026-11-13T14:10:41+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@bizzyboom/video/7706633304702848276",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Motion candidate with original watched",
+      "assessment_note": "Approximately 6 seconds: one performer faces a fixed camera, alternately swinging the arms diagonally left and right at chest level, with one hand near the shoulder and the other at the waist as the body sways. The clip ends with both hands lowered in front.",
+      "motion_verified": true,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-50b2ab5b319448999ae70fc23c281d1f",
+          "observed_at": "2026-11-13T14:10:41+00:00",
+          "metrics": {
+            "comments": 15,
+            "likes": 6190,
+            "shares": 360,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 6 seconds: one performer faces a fixed camera, alternately swinging the arms diagonally left and right at chest level, with one hand near the shoulder and the other at the waist as the body sways. The clip ends with both hands lowered in front.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": true,
+            "solo": true
+          },
+          "recreation_notes": "A stable background, solo medium shot, and short duration make this suitable for a character motion-transfer test. Check fingers, forearm occlusion, and body rhythm during alternating arm swings, leaving enough hand framing. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@katseyeworld/video/7686164240134114591",
+              "original_watched": true,
+              "same_pattern": false,
+              "note": "Key segments played this run: one standing performer places hands at the waist, raises one arm, and sways for approximately 15 seconds. The main clip's alternating left-right arm sequence was not shown; shared audio alone does not establish the same pattern. The page date is 9-17, outside the 30-day window; retained only as a historical difference comparison."
+            },
+            {
+              "url": "https://www.tiktok.com/@nianaguerrero/video/7687238571991911700",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "Approximately 6 seconds of original key frames were played: a solo outdoor lead dancer points sideways at chest level, swings the arms, and sways, with passersby in the background. Some arm movements resemble the main clip, but the complete motion order was not sufficiently confirmed; marked unverified. Page date 9-19 is outside the 30-day window; historical comparison only."
+            }
+          ],
+          "motion_verified": true,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "unknown",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one indoor performer wears a white T-shirt under a dark sleeveless vest with light trousers, alternating chest-level gestures and swaying to on-screen instructions. The clothing and dance could suit different character assets; no male or female requirement is confirmed, so the material group remains unknown. Gender identity is not inferred from face or voice."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "unknown",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one indoor performer wears a white T-shirt under a dark sleeveless vest with light trousers, alternating chest-level gestures and swaying to on-screen instructions. The clothing and dance could suit different character assets; no male or female requirement is confirmed, so the material group remains unknown. Gender identity is not inferred from face or voice."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@__iwasamistake__/video/7706515605968456993",
+      "title": "Inside the washer — everyday look to styled hair, makeup, and patterned jacket",
+      "kind": "transition",
+      "original_watched": true,
+      "motion_summary": "Approximately 12 seconds: one performer faces the camera outside a washing-machine circular door. Initially wearing a loose gray graphic top, the performer holds clothing and reaches into the drum. Later, in the same circular framing, the look changes to a patterned jacket, shirt and tie, and styled hair and makeup, reaching toward the camera, touching up lip makeup, and posing with a raised hand. Before-and-after looks and reaching were observed; the exact editing effect at the transition was not fully verified.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": false,
+        "solo": true
+      },
+      "recreation_notes": "One performer, with a stable circular door frame and background. The main elements are upper-body reaching and two looks. Generate before-and-after clips with the same framing, then try a matched edit. Check close-up arms, drum openings, and the patterned jacket for consistency. Player looping is not evidence of repeated motion. No generation test has been run.",
+      "published_at": null,
+      "published_text": "4d ago",
+      "metrics": {
+        "comments": 14,
+        "likes": 1074,
+        "shares": 30,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@annechinggg/video/7704899708556266770",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Approximately 15 seconds of the original were played with before-and-after key frames inspected; page date 11-6. One performer appears through the circular door frame from inside the drum, placing clothing toward the camera. A gray T-shirt and tied hair change to a dark thin-strap top, loose hair, and makeup, ending with a face-resting pose. The shared pattern is the washing-machine interior viewpoint and everyday-to-made-up styling change. Clothing, lighting, and poses differ; the exact transition effect was not fully verified."
+        },
+        {
+          "url": "https://www.tiktok.com/@_streltsova_dasha_/video/7702110470064491783",
+          "original_watched": true,
+          "same_pattern": true,
+          "note": "Approximately 12 seconds of the original were played with before-and-after key frames inspected; page date 10-29. One performer outside a washing-machine door wears a light leopard-print T-shirt and places clothes into the drum. A later cut shows a dark top, styled loose hair, and makeup under dimmer purple lighting, touching hair and resting the face on a hand. The shared pattern is a washing-machine interior viewpoint with before-and-after makeup or clothing changes. Lighting changes more than in the main clip; the exact transition effect was not fully verified."
+        }
+      ],
+      "music_name": "оригинальный звук - Эви - бьюти/украшения ✨",
+      "id": "tiktok-7706515605968456993",
+      "video_id": "7706515605968456993",
+      "author": "__iwasamistake__",
+      "kinds": [
+        "transition"
+      ],
+      "first_seen_at": "2026-11-14T14:01:27+00:00",
+      "last_seen_at": "2026-11-14T14:01:27+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@__iwasamistake__/video/7706515605968456993",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "Approximately 12 seconds: one performer faces the camera outside a washing-machine circular door. Initially wearing a loose gray graphic top, the performer holds clothing and reaches into the drum. Later, in the same circular framing, the look changes to a patterned jacket, shirt and tie, and styled hair and makeup, reaching toward the camera, touching up lip makeup, and posing with a raised hand. Before-and-after looks and reaching were observed; the exact editing effect at the transition was not fully verified.",
+      "motion_verified": false,
+      "trend_verified": true,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-42496ba06f294957b97fa8c6dd7d3ddc",
+          "observed_at": "2026-11-14T14:01:27+00:00",
+          "metrics": {
+            "comments": 14,
+            "likes": 1074,
+            "shares": 30,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 12 seconds: one performer faces the camera outside a washing-machine circular door. Initially wearing a loose gray graphic top, the performer holds clothing and reaches into the drum. Later, in the same circular framing, the look changes to a patterned jacket, shirt and tie, and styled hair and makeup, reaching toward the camera, touching up lip makeup, and posing with a raised hand. Before-and-after looks and reaching were observed; the exact editing effect at the transition was not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "One performer, with a stable circular door frame and background. The main elements are upper-body reaching and two looks. Generate before-and-after clips with the same framing, then try a matched edit. Check close-up arms, drum openings, and the patterned jacket for consistency. Player looping is not evidence of repeated motion. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@annechinggg/video/7704899708556266770",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Approximately 15 seconds of the original were played with before-and-after key frames inspected; page date 11-6. One performer appears through the circular door frame from inside the drum, placing clothing toward the camera. A gray T-shirt and tied hair change to a dark thin-strap top, loose hair, and makeup, ending with a face-resting pose. The shared pattern is the washing-machine interior viewpoint and everyday-to-made-up styling change. Clothing, lighting, and poses differ; the exact transition effect was not fully verified."
+            },
+            {
+              "url": "https://www.tiktok.com/@_streltsova_dasha_/video/7702110470064491783",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Approximately 12 seconds of the original were played with before-and-after key frames inspected; page date 10-29. One performer outside a washing-machine door wears a light leopard-print T-shirt and places clothes into the drum. A later cut shows a dark top, styled loose hair, and makeup under dimmer purple lighting, touching hair and resting the face on a hand. The shared pattern is a washing-machine interior viewpoint with before-and-after makeup or clothing changes. Lighting changes more than in the main clip; the exact transition effect was not fully verified."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": true
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "female",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one performer appears through a washing-machine drum, first reaching in a gray hoodie, then changing to a patterned jacket, white shirt, striped tie, styled long hair, eyeliner, and lip makeup. Assigned to female character assets for the overall womenswear-and-makeup route. A tie does not establish a need for both male and female assets. No gender identity is inferred."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "female",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one performer appears through a washing-machine drum, first reaching in a gray hoodie, then changing to a patterned jacket, white shirt, striped tie, styled long hair, eyeliner, and lip makeup. Assigned to female character assets for the overall womenswear-and-makeup route. A tie does not establish a need for both male and female assets. No gender identity is inferred."
+      }
+    },
+    {
+      "url": "https://www.tiktok.com/@silvernelmida_i2/video/7700888094974676244",
+      "title": "Love Options — short solo upper-body gesture dance",
+      "kind": "hands",
+      "original_watched": true,
+      "motion_summary": "Approximately 12 seconds: one performer faces a fixed camera, initially with hands at the waist. Both arms then rise to the front with wrists lowered and shoulders swaying; another key frame shows both hands opening and turning at chest level. Background positions remain stable. Multiple playback key frames were observed, but the complete gesture order and repetition cycle were not fully verified.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": null,
+        "solo": true
+      },
+      "recreation_notes": "A solo medium shot with a stable background and arm-and-shoulder motion is suitable for a short motion-transfer test. Leave room for the hands. Check fingers during palm turns, hand occlusion, and the pendant's motion. No generation test has been run.",
+      "published_at": null,
+      "published_text": "10-26",
+      "metrics": {
+        "comments": 296,
+        "likes": 86700,
+        "shares": 5721,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@oofdiswrld/video/7703101447755336982",
+          "original_watched": true,
+          "same_pattern": null,
+          "note": "Page date 11-1; the original is approximately 60 seconds. The opening was played and observed: a solo outdoor full-body performer steps forward and sways, with one hand near the waist and the other raised. The audio matches the main clip, but the complete gesture order was not verified. This is not confirmed same-pattern creator evidence."
+        },
+        {
+          "url": "https://www.tiktok.com/@ktuyen36_/video/7706547071368613140",
+          "original_watched": true,
+          "same_pattern": null,
+          "note": "The page shows 4d ago; the original is approximately 39 seconds. The opening was played and observed: two people outdoors at night swap front-and-back positions. The performer in a pink top raises both hands beside the shoulders, bends the knees, and sways while the other follows behind. The audio matches the main clip and includes raised-arm swaying, but cast size, blocking, and framing differ. Full motion matching was not verified."
+        }
+      ],
+      "music_name": "Love Options - BESTie",
+      "id": "tiktok-7700888094974676244",
+      "video_id": "7700888094974676244",
+      "author": "silvernelmida_i2",
+      "kinds": [
+        "hands"
+      ],
+      "first_seen_at": "2026-11-15T13:59:00+00:00",
+      "last_seen_at": "2026-11-15T13:59:00+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@silvernelmida_i2/video/7700888094974676244",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "Approximately 12 seconds: one performer faces a fixed camera, initially with hands at the waist. Both arms then rise to the front with wrists lowered and shoulders swaying; another key frame shows both hands opening and turning at chest level. Background positions remain stable. Multiple playback key frames were observed, but the complete gesture order and repetition cycle were not fully verified.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-58f0303583004adabe312c55789ab9b0",
+          "observed_at": "2026-11-15T13:59:00+00:00",
+          "metrics": {
+            "comments": 296,
+            "likes": 86700,
+            "shares": 5721,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 12 seconds: one performer faces a fixed camera, initially with hands at the waist. Both arms then rise to the front with wrists lowered and shoulders swaying; another key frame shows both hands opening and turning at chest level. Background positions remain stable. Multiple playback key frames were observed, but the complete gesture order and repetition cycle were not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": null,
+            "solo": true
+          },
+          "recreation_notes": "A solo medium shot with a stable background and arm-and-shoulder motion is suitable for a short motion-transfer test. Leave room for the hands. Check fingers during palm turns, hand occlusion, and the pendant's motion. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@oofdiswrld/video/7703101447755336982",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "Page date 11-1; the original is approximately 60 seconds. The opening was played and observed: a solo outdoor full-body performer steps forward and sways, with one hand near the waist and the other raised. The audio matches the main clip, but the complete gesture order was not verified. This is not confirmed same-pattern creator evidence."
+            },
+            {
+              "url": "https://www.tiktok.com/@ktuyen36_/video/7706547071368613140",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "The page shows 4d ago; the original is approximately 39 seconds. The opening was played and observed: two people outdoors at night swap front-and-back positions. The performer in a pink top raises both hands beside the shoulders, bends the knees, and sways while the other follows behind. The audio matches the main clip and includes raised-arm swaying, but cast size, blocking, and framing differ. Full motion matching was not verified."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": false
+        }
+      ],
+      "material_classification_history": [
+        {
+          "observed_at": "2026-11-15T22:22:39.724000+00:00",
+          "material_group": "unknown",
+          "subject_group": "solo",
+          "original_watched": true,
+          "method": "watched_original",
+          "source": "ChatGPT Work material classification review",
+          "note": "Original replayed: one indoor performer wears a white short-sleeve shirt, light inner layer, dark trousers, and a lanyard, making chest-level gestures, palm turns, and side sways. The clothing and motion do not clearly require male or female character assets; material group remains unconfirmed. Gender identity is not inferred from face, short hair, or name."
+        }
+      ],
+      "material_classification": {
+        "observed_at": "2026-11-15T22:22:39.724000+00:00",
+        "material_group": "unknown",
+        "subject_group": "solo",
+        "original_watched": true,
+        "method": "watched_original",
+        "source": "ChatGPT Work material classification review",
+        "note": "Original replayed: one indoor performer wears a white short-sleeve shirt, light inner layer, dark trousers, and a lanyard, making chest-level gestures, palm turns, and side sways. The clothing and motion do not clearly require male or female character assets; material group remains unconfirmed. Gender identity is not inferred from face, short hair, or name."
+      }
+    },
+    {
+      "trend_category": "kpop",
+      "material_group": "female",
+      "transformation": "unknown",
+      "url": "https://www.tiktok.com/@patriciamulyana/video/7703568479311416583",
+      "title": "JISOO ADDICTED — solo hand-gesture dance",
+      "kind": "hands",
+      "original_watched": true,
+      "motion_summary": "Approximately 24 seconds of the original were played and multiple key frames observed: one performer in black shorts, a fitted top, and a badge cap reaches a fist toward the camera, turns the upper body, then forms a heart at the chest. The wall and shelving remain stable. The page explicitly labels JISOO and jisooaddicted, supporting a K-pop dance candidate. Grouped for female character assets based on the womenswear styling, without inferring the performer's gender identity. No outfit change was seen in the observed segment, but full-video styling changes and the complete motion repetition cycle were not fully verified.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": null,
+        "solo": true
+      },
+      "recreation_notes": "A solo medium shot with a stable background is suitable for short gesture references. Preserve the hat and clothing silhouette. Check fist foreshortening, finger contact in the heart gesture, and torso sway. No generation test has been run.",
+      "published_at": null,
+      "published_text": "11-2",
+      "metrics": {
+        "comments": 22,
+        "likes": 3072,
+        "shares": 195,
+        "views": null
+      },
+      "related_videos": [
+        {
+          "url": "https://www.tiktok.com/@kkgee00/video/7706922233561632020",
+          "original_watched": true,
+          "same_pattern": null,
+          "note": "The page shows 4d ago. Part of the original was played: a split screen shows a song performance above and mirror dancing below, including crouching, rising, one hand near the head, and the other arm extended sideways. The song is related to the main clip, but an identical complete gesture sequence was not established; excluded from confirmed same-pattern evidence."
+        },
+        {
+          "url": "https://www.tiktok.com/@midozinha/video/7708406452343393556",
+          "original_watched": true,
+          "same_pattern": null,
+          "note": "The page shows 23h ago. Part of the original was played: one performer with long purple hair faces the camera, raises a hand past the face, and lip-syncs, with text and notification overlays. The main clip's fist-reach and chest-heart sequence was not confirmed. The same song does not establish the same pattern."
+        }
+      ],
+      "music_name": "الصوت الأصلي - ♡゛فَتومهہ 🎀",
+      "id": "tiktok-7703568479311416583",
+      "video_id": "7703568479311416583",
+      "author": "patriciamulyana",
+      "kinds": [
+        "hands"
+      ],
+      "first_seen_at": "2026-11-16T14:31:12.979000+00:00",
+      "last_seen_at": "2026-11-16T14:31:12.979000+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@patriciamulyana/video/7703568479311416583",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "Approximately 24 seconds of the original were played and multiple key frames observed: one performer in black shorts, a fitted top, and a badge cap reaches a fist toward the camera, turns the upper body, then forms a heart at the chest. The wall and shelving remain stable. The page explicitly labels JISOO and jisooaddicted, supporting a K-pop dance candidate. Grouped for female character assets based on the womenswear styling, without inferring the performer's gender identity. No outfit change was seen in the observed segment, but full-video styling changes and the complete motion repetition cycle were not fully verified.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261116T143112979Z-v2",
+          "observed_at": "2026-11-16T14:31:12.979000+00:00",
+          "metrics": {
+            "comments": 22,
+            "likes": 3072,
+            "shares": 195,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 24 seconds of the original were played and multiple key frames observed: one performer in black shorts, a fitted top, and a badge cap reaches a fist toward the camera, turns the upper body, then forms a heart at the chest. The wall and shelving remain stable. The page explicitly labels JISOO and jisooaddicted, supporting a K-pop dance candidate. Grouped for female character assets based on the womenswear styling, without inferring the performer's gender identity. No outfit change was seen in the observed segment, but full-video styling changes and the complete motion repetition cycle were not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": null,
+            "solo": true
+          },
+          "recreation_notes": "A solo medium shot with a stable background is suitable for short gesture references. Preserve the hat and clothing silhouette. Check fist foreshortening, finger contact in the heart gesture, and torso sway. No generation test has been run.",
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@kkgee00/video/7706922233561632020",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "The page shows 4d ago. Part of the original was played: a split screen shows a song performance above and mirror dancing below, including crouching, rising, one hand near the head, and the other arm extended sideways. The song is related to the main clip, but an identical complete gesture sequence was not established; excluded from confirmed same-pattern evidence."
+            },
+            {
+              "url": "https://www.tiktok.com/@midozinha/video/7708406452343393556",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "The page shows 23h ago. Part of the original was played: one performer with long purple hair faces the camera, raises a hand past the face, and lip-syncs, with text and notification overlays. The main clip's fist-reach and chest-heart sequence was not confirmed. The same song does not establish the same pattern."
+            }
+          ],
+          "motion_verified": false,
+          "trend_verified": false,
+          "trend_category": "kpop",
+          "material_group": "female",
+          "transformation": "unknown"
+        }
+      ]
+    },
+    {
+      "trend_category": "virtual_idol",
+      "material_group": "male",
+      "transformation": "unknown",
+      "url": "https://www.tiktok.com/@just.some.dude.online/video/7708583073859915029",
+      "title": "Saja Boys character — solo eight-second dance",
+      "kind": "hands",
+      "original_watched": true,
+      "motion_summary": "Approximately 8 seconds of the original were played and key frames observed: one stylized character appears before nighttime amusement rides and streetlights, with red hair, a fitted green patterned top, and loose jeans. Feet are apart, one arm bends with a hand near the neck or shoulder, and the torso and hips sway. Background positions remain stable. The page labels Saja Boys/Abby; grouped for male character assets for the virtual boy-band role, without inferring a real person's gender identity or generation tool. Styling was consistent in the observed segment, but full-video changes and the complete repetition cycle were not fully verified.",
+      "checks": {
+        "fixed_camera": true,
+        "repetitive": null,
+        "solo": true
+      },
+      "recreation_notes": "A full-body shot of one character, stable background, and short duration make this suitable for a pose-reference test. Check neck-and-shoulder hand occlusion, loose-trouser motion, and backlit facial detail. The same creator's group version has complex movement and was not counted as evidence of the same pattern. No generation test has been run.",
+      "published_at": null,
+      "published_text": "12h ago",
+      "metrics": {
+        "comments": 6,
+        "likes": 194,
+        "shares": 2,
+        "views": null
+      },
+      "related_videos": [],
+      "music_name": "original sound - just.some.dude.online",
+      "id": "tiktok-7708583073859915029",
+      "video_id": "7708583073859915029",
+      "author": "just.some.dude.online",
+      "kinds": [
+        "hands"
+      ],
+      "first_seen_at": "2026-11-16T14:31:12.979000+00:00",
+      "last_seen_at": "2026-11-16T14:31:12.979000+00:00",
+      "duration": null,
+      "music_id": "",
+      "source": "ChatGPT Work cloud browser",
+      "source_url": "https://www.tiktok.com/@just.some.dude.online/video/7708583073859915029",
+      "source_kind": "chatgpt_work",
+      "search_query": "",
+      "assessment": "Candidate awaiting verification",
+      "assessment_note": "Approximately 8 seconds of the original were played and key frames observed: one stylized character appears before nighttime amusement rides and streetlights, with red hair, a fitted green patterned top, and loose jeans. Feet are apart, one arm bends with a hand near the neck or shoulder, and the torso and hips sway. Background positions remain stable. The page labels Saja Boys/Abby; grouped for male character assets for the virtual boy-band role, without inferring a real person's gender identity or generation tool. Styling was consistent in the observed segment, but full-video changes and the complete repetition cycle were not fully verified.",
+      "motion_verified": false,
+      "trend_verified": false,
+      "favorite": false,
+      "availability": "Original watched in Work",
+      "observations": [
+        {
+          "run_id": "work-tiktok-20261116T143112979Z-v2",
+          "observed_at": "2026-11-16T14:31:12.979000+00:00",
+          "metrics": {
+            "comments": 6,
+            "likes": 194,
+            "shares": 2,
+            "views": null
+          },
+          "original_watched": true,
+          "motion_summary": "Approximately 8 seconds of the original were played and key frames observed: one stylized character appears before nighttime amusement rides and streetlights, with red hair, a fitted green patterned top, and loose jeans. Feet are apart, one arm bends with a hand near the neck or shoulder, and the torso and hips sway. Background positions remain stable. The page labels Saja Boys/Abby; grouped for male character assets for the virtual boy-band role, without inferring a real person's gender identity or generation tool. Styling was consistent in the observed segment, but full-video changes and the complete repetition cycle were not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": null,
+            "solo": true
+          },
+          "recreation_notes": "A full-body shot of one character, stable background, and short duration make this suitable for a pose-reference test. Check neck-and-shoulder hand occlusion, loose-trouser motion, and backlit facial detail. The same creator's group version has complex movement and was not counted as evidence of the same pattern. No generation test has been run.",
+          "related_videos": [],
+          "motion_verified": false,
+          "trend_verified": false,
+          "trend_category": "virtual_idol",
+          "material_group": "male",
+          "transformation": "unknown"
+        }
+      ]
+    }
+  ],
+  "runs": [
+    {
+      "id": "work-tiktok-20261116T143112979Z-v2",
+      "run_id": "work-tiktok-20261116T143112979Z-v2",
+      "payload_sha256": "3e2ca714238977a7aa19d01100e6ee39277e4d28e0c930e41c2e69e639d44d6e",
+      "collector": "chatgpt_work",
+      "status": "partial",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-16T14:31:12.979000+00:00",
+      "finished_at": "2026-11-16T14:31:12.979000+00:00",
+      "observed_at": "2026-11-16T14:31:12.979000+00:00",
+      "found": 2,
+      "added": 2,
+      "message": "This run used New York daily slots for one K-pop and one virtual-idol candidate. Main-clip key frames were played. The K-pop page shows 11-2, requiring the extended 30-day window; the virtual-character page shows 12h ago. Parts of originals from two JISOO-related creators were viewed, but matching motion was not established. The virtual-character sound page contained only one video, with no other-creator evidence found. Neither meets the three-creator same-pattern threshold. US audience participation was not verified; no claim of a US chart ranking or new trend is made. Metrics are the integers displayed directly on the main-video pages; search cards and K/M counts from related clips were not substituted. Complete motion cycles and full-video styling changes were not fully verified. No AI adaptation test has been generated.",
+      "ingestion_status": "imported",
+      "video_snapshots": [
+        {
+          "id": "tiktok-7703568479311416583",
+          "video_id": "7703568479311416583",
+          "url": "https://www.tiktok.com/@patriciamulyana/video/7703568479311416583",
+          "title": "JISOO ADDICTED — solo hand-gesture dance",
+          "author": "patriciamulyana",
+          "kind": "hands",
+          "original_watched": true,
+          "motion_summary": "Approximately 24 seconds of the original were played and multiple key frames observed: one performer in black shorts, a fitted top, and a badge cap reaches a fist toward the camera, turns the upper body, then forms a heart at the chest. The wall and shelving remain stable. The page explicitly labels JISOO and jisooaddicted, supporting a K-pop dance candidate. Grouped for female character assets based on the womenswear styling, without inferring the performer's gender identity. No outfit change was seen in the observed segment, but full-video styling changes and the complete motion repetition cycle were not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": null,
+            "solo": true
+          },
+          "recreation_notes": "A solo medium shot with a stable background is suitable for short gesture references. Preserve the hat and clothing silhouette. Check fist foreshortening, finger contact in the heart gesture, and torso sway. No generation test has been run.",
+          "published_at": null,
+          "published_text": "11-2",
+          "metrics": {
+            "comments": 22,
+            "likes": 3072,
+            "shares": 195,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@kkgee00/video/7706922233561632020",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "The page shows 4d ago. Part of the original was played: a split screen shows a song performance above and mirror dancing below, including crouching, rising, one hand near the head, and the other arm extended sideways. The song is related to the main clip, but an identical complete gesture sequence was not established; excluded from confirmed same-pattern evidence."
+            },
+            {
+              "url": "https://www.tiktok.com/@midozinha/video/7708406452343393556",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "The page shows 23h ago. Part of the original was played: one performer with long purple hair faces the camera, raises a hand past the face, and lip-syncs, with text and notification overlays. The main clip's fist-reach and chest-heart sequence was not confirmed. The same song does not establish the same pattern."
+            }
+          ],
+          "music_name": "الصوت الأصلي - ♡゛فَتومهہ 🎀",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@patriciamulyana/video/7703568479311416583",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "Approximately 24 seconds of the original were played and multiple key frames observed: one performer in black shorts, a fitted top, and a badge cap reaches a fist toward the camera, turns the upper body, then forms a heart at the chest. The wall and shelving remain stable. The page explicitly labels JISOO and jisooaddicted, supporting a K-pop dance candidate. Grouped for female character assets based on the womenswear styling, without inferring the performer's gender identity. No outfit change was seen in the observed segment, but full-video styling changes and the complete motion repetition cycle were not fully verified.",
+          "trend_category": "kpop",
+          "material_group": "female",
+          "transformation": "unknown",
+          "observed_at": "2026-11-16T14:31:12.979000+00:00"
+        },
+        {
+          "id": "tiktok-7708583073859915029",
+          "video_id": "7708583073859915029",
+          "url": "https://www.tiktok.com/@just.some.dude.online/video/7708583073859915029",
+          "title": "Saja Boys character — solo eight-second dance",
+          "author": "just.some.dude.online",
+          "kind": "hands",
+          "original_watched": true,
+          "motion_summary": "Approximately 8 seconds of the original were played and key frames observed: one stylized character appears before nighttime amusement rides and streetlights, with red hair, a fitted green patterned top, and loose jeans. Feet are apart, one arm bends with a hand near the neck or shoulder, and the torso and hips sway. Background positions remain stable. The page labels Saja Boys/Abby; grouped for male character assets for the virtual boy-band role, without inferring a real person's gender identity or generation tool. Styling was consistent in the observed segment, but full-video changes and the complete repetition cycle were not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": null,
+            "solo": true
+          },
+          "recreation_notes": "A full-body shot of one character, stable background, and short duration make this suitable for a pose-reference test. Check neck-and-shoulder hand occlusion, loose-trouser motion, and backlit facial detail. The same creator's group version has complex movement and was not counted as evidence of the same pattern. No generation test has been run.",
+          "published_at": null,
+          "published_text": "12h ago",
+          "metrics": {
+            "comments": 6,
+            "likes": 194,
+            "shares": 2,
+            "views": null
+          },
+          "related_videos": [],
+          "music_name": "original sound - just.some.dude.online",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@just.some.dude.online/video/7708583073859915029",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "Approximately 8 seconds of the original were played and key frames observed: one stylized character appears before nighttime amusement rides and streetlights, with red hair, a fitted green patterned top, and loose jeans. Feet are apart, one arm bends with a hand near the neck or shoulder, and the torso and hips sway. Background positions remain stable. The page labels Saja Boys/Abby; grouped for male character assets for the virtual boy-band role, without inferring a real person's gender identity or generation tool. Styling was consistent in the observed segment, but full-video changes and the complete repetition cycle were not fully verified.",
+          "trend_category": "virtual_idol",
+          "material_group": "male",
+          "transformation": "unknown",
+          "observed_at": "2026-11-16T14:31:12.979000+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@patriciamulyana/video/7703568479311416583",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@kkgee00/video/7706922233561632020",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@midozinha/video/7708406452343393556",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@just.some.dude.online/video/7708583073859915029",
+          "status": "ok",
+          "found": 1
+        }
+      ]
+    },
+    {
+      "id": "work-tiktok-58f0303583004adabe312c55789ab9b0",
+      "run_id": "work-tiktok-58f0303583004adabe312c55789ab9b0",
+      "payload_sha256": "033895ff0737f4a440632c2f0444bddb9fdf75ff1713e310b4c0f88a7236cb8b",
+      "collector": "chatgpt_work",
+      "status": "partial",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-15T13:59:00+00:00",
+      "finished_at": "2026-11-15T13:59:00+00:00",
+      "observed_at": "2026-11-15T13:59:00+00:00",
+      "found": 1,
+      "added": 1,
+      "message": "This run added one solo fixed-camera short-gesture dance candidate, page date 10-26, using the extended 30-day window. Key frames of the main clip and parts of originals from two other creators were played and observed. Shared audio does not establish identical motion; evidence of three creators using the same pattern remains insufficient. Exact publication time, views, and the complete repeated-motion cycle were not verified. The displayed 86.7K likes was converted to an approximate observed integer of 86,700, not an exact count. No AI adaptation test has been generated.",
+      "ingestion_status": "imported",
+      "video_snapshots": [
+        {
+          "id": "tiktok-7700888094974676244",
+          "video_id": "7700888094974676244",
+          "url": "https://www.tiktok.com/@silvernelmida_i2/video/7700888094974676244",
+          "title": "Love Options — short solo upper-body gesture dance",
+          "author": "silvernelmida_i2",
+          "kind": "hands",
+          "original_watched": true,
+          "motion_summary": "Approximately 12 seconds: one performer faces a fixed camera, initially with hands at the waist. Both arms then rise to the front with wrists lowered and shoulders swaying; another key frame shows both hands opening and turning at chest level. Background positions remain stable. Multiple playback key frames were observed, but the complete gesture order and repetition cycle were not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": null,
+            "solo": true
+          },
+          "recreation_notes": "A solo medium shot with a stable background and arm-and-shoulder motion is suitable for a short motion-transfer test. Leave room for the hands. Check fingers during palm turns, hand occlusion, and the pendant's motion. No generation test has been run.",
+          "published_at": null,
+          "published_text": "10-26",
+          "metrics": {
+            "comments": 296,
+            "likes": 86700,
+            "shares": 5721,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@oofdiswrld/video/7703101447755336982",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "Page date 11-1; the original is approximately 60 seconds. The opening was played and observed: a solo outdoor full-body performer steps forward and sways, with one hand near the waist and the other raised. The audio matches the main clip, but the complete gesture order was not verified. This is not confirmed same-pattern creator evidence."
+            },
+            {
+              "url": "https://www.tiktok.com/@ktuyen36_/video/7706547071368613140",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "The page shows 4d ago; the original is approximately 39 seconds. The opening was played and observed: two people outdoors at night swap front-and-back positions. The performer in a pink top raises both hands beside the shoulders, bends the knees, and sways while the other follows behind. The audio matches the main clip and includes raised-arm swaying, but cast size, blocking, and framing differ. Full motion matching was not verified."
+            }
+          ],
+          "music_name": "Love Options - BESTie",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@silvernelmida_i2/video/7700888094974676244",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "Approximately 12 seconds: one performer faces a fixed camera, initially with hands at the waist. Both arms then rise to the front with wrists lowered and shoulders swaying; another key frame shows both hands opening and turning at chest level. Background positions remain stable. Multiple playback key frames were observed, but the complete gesture order and repetition cycle were not fully verified.",
+          "observed_at": "2026-11-15T13:59:00+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@silvernelmida_i2/video/7700888094974676244",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@oofdiswrld/video/7703101447755336982",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@ktuyen36_/video/7706547071368613140",
+          "status": "ok",
+          "found": 1
+        }
+      ]
+    },
+    {
+      "id": "work-tiktok-42496ba06f294957b97fa8c6dd7d3ddc",
+      "run_id": "work-tiktok-42496ba06f294957b97fa8c6dd7d3ddc",
+      "payload_sha256": "e7ef4bacfbd5a54872d6aee2266480cb1ba6d52fcadc83e19e6418b99b51fcd6",
+      "collector": "chatgpt_work",
+      "status": "partial",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-14T14:01:27+00:00",
+      "finished_at": "2026-11-14T14:01:27+00:00",
+      "observed_at": "2026-11-14T14:01:27+00:00",
+      "found": 1,
+      "added": 1,
+      "message": "This run added one main candidate, labeled 4d ago. The main clip and originals from two distinct creators were played, confirming the shared washing-machine interior viewpoint, clothing placement, and before-and-after makeup or outfit change. Related pages show 11-6 and 10-29, requiring the extended 30-day window. Before-and-after looks and key movements were observed, but full editing detail at the transition remains unverified; no specific effect is inferred. Exact publication time and views were not verified. Engagement metrics are observed page values, not exact live counts; no K/M abbreviation conversion was used. No AI adaptation test has been generated.",
+      "ingestion_status": "imported",
+      "video_snapshots": [
+        {
+          "id": "tiktok-7706515605968456993",
+          "video_id": "7706515605968456993",
+          "url": "https://www.tiktok.com/@__iwasamistake__/video/7706515605968456993",
+          "title": "Inside the washer — everyday look to styled hair, makeup, and patterned jacket",
+          "author": "__iwasamistake__",
+          "kind": "transition",
+          "original_watched": true,
+          "motion_summary": "Approximately 12 seconds: one performer faces the camera outside a washing-machine circular door. Initially wearing a loose gray graphic top, the performer holds clothing and reaches into the drum. Later, in the same circular framing, the look changes to a patterned jacket, shirt and tie, and styled hair and makeup, reaching toward the camera, touching up lip makeup, and posing with a raised hand. Before-and-after looks and reaching were observed; the exact editing effect at the transition was not fully verified.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "One performer, with a stable circular door frame and background. The main elements are upper-body reaching and two looks. Generate before-and-after clips with the same framing, then try a matched edit. Check close-up arms, drum openings, and the patterned jacket for consistency. Player looping is not evidence of repeated motion. No generation test has been run.",
+          "published_at": null,
+          "published_text": "4d ago",
+          "metrics": {
+            "comments": 14,
+            "likes": 1074,
+            "shares": 30,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@annechinggg/video/7704899708556266770",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Approximately 15 seconds of the original were played with before-and-after key frames inspected; page date 11-6. One performer appears through the circular door frame from inside the drum, placing clothing toward the camera. A gray T-shirt and tied hair change to a dark thin-strap top, loose hair, and makeup, ending with a face-resting pose. The shared pattern is the washing-machine interior viewpoint and everyday-to-made-up styling change. Clothing, lighting, and poses differ; the exact transition effect was not fully verified."
+            },
+            {
+              "url": "https://www.tiktok.com/@_streltsova_dasha_/video/7702110470064491783",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Approximately 12 seconds of the original were played with before-and-after key frames inspected; page date 10-29. One performer outside a washing-machine door wears a light leopard-print T-shirt and places clothes into the drum. A later cut shows a dark top, styled loose hair, and makeup under dimmer purple lighting, touching hair and resting the face on a hand. The shared pattern is a washing-machine interior viewpoint with before-and-after makeup or clothing changes. Lighting changes more than in the main clip; the exact transition effect was not fully verified."
+            }
+          ],
+          "music_name": "оригинальный звук - Эви - бьюти/украшения ✨",
+          "motion_verified": false,
+          "trend_verified": true,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@__iwasamistake__/video/7706515605968456993",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "Approximately 12 seconds: one performer faces the camera outside a washing-machine circular door. Initially wearing a loose gray graphic top, the performer holds clothing and reaches into the drum. Later, in the same circular framing, the look changes to a patterned jacket, shirt and tie, and styled hair and makeup, reaching toward the camera, touching up lip makeup, and posing with a raised hand. Before-and-after looks and reaching were observed; the exact editing effect at the transition was not fully verified.",
+          "observed_at": "2026-11-14T14:01:27+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@__iwasamistake__/video/7706515605968456993",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@annechinggg/video/7704899708556266770",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@_streltsova_dasha_/video/7702110470064491783",
+          "status": "ok",
+          "found": 1
+        }
+      ]
+    },
+    {
+      "id": "work-tiktok-50b2ab5b319448999ae70fc23c281d1f",
+      "run_id": "work-tiktok-50b2ab5b319448999ae70fc23c281d1f",
+      "payload_sha256": "13f1e35e49f2b88a0e613c7255bddd7804b46e72fbcc034b7290212ccb3ff700",
+      "collector": "chatgpt_work",
+      "status": "partial",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-13T14:10:41+00:00",
+      "finished_at": "2026-11-13T14:10:41+00:00",
+      "observed_at": "2026-11-13T14:10:41+00:00",
+      "found": 1,
+      "added": 1,
+      "message": "This run played one new main candidate, labeled 2d ago: a solo fixed-camera short arm-swing sequence suitable for an AI adaptation candidate. Originals from two other creators using the same audio were also played, but their dates, 9-17 and 9-19, fall outside the 30-day candidate window. They are historical comparisons only, not recent main candidates. Evidence of three creators using the same pattern was insufficient. A browser timeout occurred during related-video research; limited verification was completed after recovery. Exact publication time and view count were not verified. No AI recreation test has been generated.",
+      "ingestion_status": "imported",
+      "video_snapshots": [
+        {
+          "id": "tiktok-7706633304702848276",
+          "video_id": "7706633304702848276",
+          "url": "https://www.tiktok.com/@bizzyboom/video/7706633304702848276",
+          "title": "Solo alternating arm-swing dance",
+          "author": "bizzyboom",
+          "kind": "hands",
+          "original_watched": true,
+          "motion_summary": "Approximately 6 seconds: one performer faces a fixed camera, alternately swinging the arms diagonally left and right at chest level, with one hand near the shoulder and the other at the waist as the body sways. The clip ends with both hands lowered in front.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": true,
+            "solo": true
+          },
+          "recreation_notes": "A stable background, solo medium shot, and short duration make this suitable for a character motion-transfer test. Check fingers, forearm occlusion, and body rhythm during alternating arm swings, leaving enough hand framing. No generation test has been run.",
+          "published_at": null,
+          "published_text": "2d ago",
+          "metrics": {
+            "comments": 15,
+            "likes": 6190,
+            "shares": 360,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@katseyeworld/video/7686164240134114591",
+              "original_watched": true,
+              "same_pattern": false,
+              "note": "Key segments played this run: one standing performer places hands at the waist, raises one arm, and sways for approximately 15 seconds. The main clip's alternating left-right arm sequence was not shown; shared audio alone does not establish the same pattern. The page date is 9-17, outside the 30-day window; retained only as a historical difference comparison."
+            },
+            {
+              "url": "https://www.tiktok.com/@nianaguerrero/video/7687238571991911700",
+              "original_watched": true,
+              "same_pattern": null,
+              "note": "Approximately 6 seconds of original key frames were played: a solo outdoor lead dancer points sideways at chest level, swings the arms, and sways, with passersby in the background. Some arm movements resemble the main clip, but the complete motion order was not sufficiently confirmed; marked unverified. Page date 9-19 is outside the 30-day window; historical comparison only."
+            }
+          ],
+          "music_name": "sonido original - ElRolitas",
+          "motion_verified": true,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@bizzyboom/video/7706633304702848276",
+          "source_kind": "chatgpt_work",
+          "assessment": "Motion candidate with original watched",
+          "assessment_note": "Approximately 6 seconds: one performer faces a fixed camera, alternately swinging the arms diagonally left and right at chest level, with one hand near the shoulder and the other at the waist as the body sways. The clip ends with both hands lowered in front.",
+          "observed_at": "2026-11-13T14:10:41+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@bizzyboom/video/7706633304702848276",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@katseyeworld/video/7686164240134114591",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@nianaguerrero/video/7687238571991911700",
+          "status": "ok",
+          "found": 1
+        }
+      ]
+    },
+    {
+      "id": "work-tiktok-20261112T140658Z-d02c989e",
+      "run_id": "work-tiktok-20261112T140658Z-d02c989e",
+      "payload_sha256": "2f440e348273e22c41cb3b476aaf274262e138159e45dde53425844de921907c",
+      "collector": "chatgpt_work",
+      "status": "partial",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-12T14:06:58+00:00",
+      "finished_at": "2026-11-12T14:06:58+00:00",
+      "observed_at": "2026-11-12T14:06:58+00:00",
+      "found": 2,
+      "added": 2,
+      "message": "This run added two main candidates. Key frames were played and observed in the cloud browser; two other creators' originals per group were replayed to record motion similarities and differences. One same-audio cartoon-cow effect was also checked, but differs from the cow-makeup transition and was excluded from same-pattern evidence. Main pages show 5d ago and 6d ago; one related original shows 11-3, requiring the extended 30-day window. Exact publication times and views remain unverified. Page K/M abbreviations were converted to approximate observed integers, not exact counts. The expression candidate has framing changes; partial-verification status was retained. No AI adaptation suggestions have been tested through generation.",
+      "ingestion_status": "imported",
+      "video_snapshots": [
+        {
+          "id": "tiktok-7705213331916770590",
+          "video_id": "7705213331916770590",
+          "url": "https://www.tiktok.com/@kimbirchwood/video/7705213331916770590",
+          "title": "Meow — close-up lip sync, from side glance to camera",
+          "author": "kimbirchwood",
+          "kind": "pov",
+          "original_watched": true,
+          "motion_summary": "Approximately 5 seconds: one performer sits in close-up in front of a sofa, switching between side glances, frowning, an open mouth, and facing-camera lip sync, with slight head turns. Framing scale and background composition change.",
+          "checks": {
+            "fixed_camera": false,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "An unobstructed face and limited body motion support a character expression and lip-sync test. Use fixed framing to reduce difficulty from the original's camera changes. No generation test has been run.",
+          "published_at": null,
+          "published_text": "5d ago",
+          "metrics": {
+            "comments": 2592,
+            "likes": 1200000,
+            "shares": 157700,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Replayed this run: with the same audio, one performer in close-up moves from a closed mouth to an open-mouth smile and slightly turns the head. It shares the short expressive lip-sync format, but the main clip's side glance and frown are stronger; expressions and frame-by-frame movements are not identical. The page shows 6d ago."
+            },
+            {
+              "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Replayed this run: one performer turns from a side view to the camera and opens the mouth to lip-sync for approximately 5 seconds. It shares the same audio and short expressive lip-sync format, but standing medium framing and posture differ from the main seated close-up. The page shows 2d ago."
+            }
+          ],
+          "music_name": "original sound - dailytungstenballsack",
+          "motion_verified": false,
+          "trend_verified": true,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@kimbirchwood/video/7705213331916770590",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "Approximately 5 seconds: one performer sits in close-up in front of a sofa, switching between side glances, frowning, an open mouth, and facing-camera lip sync, with slight head turns. Framing scale and background composition change.",
+          "observed_at": "2026-11-12T14:06:58+00:00"
+        },
+        {
+          "id": "tiktok-7705022159990607156",
+          "video_id": "7705022159990607156",
+          "url": "https://www.tiktok.com/@anyelirrrr_/video/7705022159990607156",
+          "title": "Cow Makeup — spotted makeup and headscarf transformation",
+          "author": "anyelirrrr_",
+          "kind": "transition",
+          "original_watched": true,
+          "motion_summary": "Approximately 15 seconds: one performer in a striped top and burgundy headscarf appears with a cow-makeup reference image overlaid, lip-syncing with bent wrists at the chest, then changing to black-and-white facial spots and a brown-and-white spotted headscarf, turning the head to show the makeup.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "The close-up and background are mostly stable. Create separate before-and-after character looks and edit them together. Check markings, facial identity, and headscarf consistency; hand poses at the transition can be simplified. No generation test has been run.",
+          "published_at": null,
+          "published_text": "6d ago",
+          "metrics": {
+            "comments": 2972,
+            "likes": 1100000,
+            "shares": 38400,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Before-and-after styling replayed this run: the same cow-makeup reference image, lip sync, and styling transition, ending with bent wrists at the chest. Cow-ear accessories, long hair, and a cow outfit differ from the main clip's headscarf version. The page shows 1d ago."
+            },
+            {
+              "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Before-and-after styling replayed this run: the same reference image is overlaid; lip sync and bent-hand gestures precede spotted cow makeup and a patterned headscarf. Makeup details and clothing differ. Page date 11-3 is outside the preferred seven-day window and is preserved as shown."
+            },
+            {
+              "url": "https://www.tiktok.com/@nafisafidela_2/video/7705397197134744884",
+              "original_watched": true,
+              "same_pattern": false,
+              "note": "Played this run: the performer first lip-syncs with a blanket over the head, then changes to a cartoon cow on a grassy background, with facial eyes and mouth mapped onto the cartoon and arms raised. Although the audio is shared, this is not a cow-makeup before-and-after reveal and does not count toward the same-pattern creator total. The page shows 5d ago."
+            }
+          ],
+          "music_name": "suara asli - RYN",
+          "motion_verified": false,
+          "trend_verified": true,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@anyelirrrr_/video/7705022159990607156",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "Approximately 15 seconds: one performer in a striped top and burgundy headscarf appears with a cow-makeup reference image overlaid, lip-syncing with bent wrists at the chest, then changing to black-and-white facial spots and a brown-and-white spotted headscarf, turning the head to show the makeup.",
+          "observed_at": "2026-11-12T14:06:58+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@kimbirchwood/video/7705213331916770590",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@anyelirrrr_/video/7705022159990607156",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@nafisafidela_2/video/7705397197134744884",
+          "status": "ok",
+          "found": 1
+        }
+      ]
+    },
+    {
+      "id": "work-tiktok-20261112T013104Z-7704859708200389902",
+      "run_id": "work-tiktok-20261112T013104Z-7704859708200389902",
+      "payload_sha256": "3f8b1c1e965c6bdb4e2aa62d5664177f4b4188cb0e4652526db2730fb82349c7",
+      "collector": "chatgpt_work",
+      "status": "partial",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-12T01:31:04+00:00",
+      "finished_at": "2026-11-12T01:31:04+00:00",
+      "observed_at": "2026-11-12T01:31:04+00:00",
+      "found": 5,
+      "added": 5,
+      "message": "This run played all five candidates in the same signed-in cloud browser and checked key motion frames. Visible main-video metrics were rechecked; related-video observations reuse earlier individual playback in this task. Each pattern lists just one other creator, two creators in total, below the three-creator verification threshold. All view counts and exact publication times remain unverified. Page K abbreviations were converted to approximate integers, not exact counts. No AI recreation test has been generated. Recent publication does not mean the pattern was recently invented.",
+      "sources": [
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@charlotteseet/video/7703871221569424661",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@floor_vandermeer/video/7705770462084664608",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@shelbyjanero/video/7706775425162300702",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@notaudrina26/video/7686951860804308237",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@rosariodecre/video/7703530440023444769",
+          "status": "ok",
+          "found": 1
+        },
+        {
+          "name": "ChatGPT Work cloud browser",
+          "url": "https://www.tiktok.com/@pyaephyozaw870/video/7704245075324194069",
+          "status": "ok",
+          "found": 1
+        }
+      ],
+      "video_snapshots": [
+        {
+          "id": "tiktok-7704859708200389902",
+          "video_id": "7704859708200389902",
+          "url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+          "title": "Meow — solo close-up lip sync",
+          "author": "houstontruman",
+          "kind": "pov",
+          "original_watched": true,
+          "motion_summary": "One seated performer faces the camera, moving from a neutral expression to an open mouth and smile with slight head movement; approximately 5 seconds.",
+          "checks": {
+            "fixed_camera": null,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "Mostly stable close-up framing, an unobstructed face, and small movements suit character expression and lip-sync driving. The footage alone does not confirm that the camera is fixed. No generation test has been run.",
+          "published_at": null,
+          "published_text": "6d ago",
+          "metrics": {
+            "comments": 2107,
+            "likes": 519300,
+            "shares": 105800,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@enhypen/video/7706463838610246913",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: JAY faces the camera alone, lip-syncing to the same audio with a few hand gestures. Framing and posture differ from the main clip. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "music_name": "original sound - dailytungstenballsack",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@houstontruman/video/7704859708200389902",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "One seated performer faces the camera, moving from a neutral expression to an open mouth and smile with slight head movement; approximately 5 seconds.",
+          "observed_at": "2026-11-12T01:31:04+00:00"
+        },
+        {
+          "id": "tiktok-7703871221569424661",
+          "video_id": "7703871221569424661",
+          "url": "https://www.tiktok.com/@charlotteseet/video/7703871221569424661",
+          "title": "Palm-cover outfit transition",
+          "author": "charlotteseet",
+          "kind": "transition",
+          "original_watched": true,
+          "motion_summary": "One performer in pink pajamas and hair rollers sweeps both hands across the face and camera, then changes to a gray off-shoulder sweater and styled hair; approximately 14 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "Generate separate before-and-after outfit clips, then cut where the palms cover the lens to reduce the difficulty of continuous clothing generation. Keep poses and backgrounds consistent. The original is labeled Paid partnership. No generation test has been run.",
+          "published_at": null,
+          "published_text": "11-3",
+          "metrics": {
+            "comments": 29,
+            "likes": 14200,
+            "shares": 334,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@floor_vandermeer/video/7705770462084664608",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: the same audio and hand-cover transition lead to red hair and black clothing. This is a hair-color variation, not identical outfit content. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "music_name": "original sound - editsbykaj",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@charlotteseet/video/7703871221569424661",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "One performer in pink pajamas and hair rollers sweeps both hands across the face and camera, then changes to a gray off-shoulder sweater and styled hair; approximately 14 seconds.",
+          "observed_at": "2026-11-12T01:31:04+00:00"
+        },
+        {
+          "id": "tiktok-7706856820337282324",
+          "video_id": "7706856820337282324",
+          "url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+          "title": "Cow Makeup — costume transformation",
+          "author": "raeinhyer",
+          "kind": "transition",
+          "original_watched": true,
+          "motion_summary": "One performer faces the camera in an everyday look, with a cow-makeup reference image overlaid. The look changes to black-and-white spotted makeup, a wig, and a cow outfit, with pouting and small hand movements curled at the chest; approximately 15 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "Create consistent before-and-after makeup looks, generate short motion clips separately, then edit them together. Check facial markings, character identity, and clothing consistency. No generation test has been run.",
+          "published_at": null,
+          "published_text": "15h ago",
+          "metrics": {
+            "comments": 480,
+            "likes": 27500,
+            "shares": 907,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@rinnwyn/video/7703832061462793478",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: RYN also uses the same audio, cow-makeup reference image, and before-and-after styling, with a different headscarf. The main clip publicly credits ib:@RYN. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "music_name": "suara asli - RYN",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@raeinhyer/video/7706856820337282324",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "One performer faces the camera in an everyday look, with a cow-makeup reference image overlaid. The look changes to black-and-white spotted makeup, a wig, and a cow outfit, with pouting and small hand movements curled at the chest; approximately 15 seconds.",
+          "observed_at": "2026-11-12T01:31:04+00:00"
+        },
+        {
+          "id": "tiktok-7706775425162300702",
+          "video_id": "7706775425162300702",
+          "url": "https://www.tiktok.com/@shelbyjanero/video/7706775425162300702",
+          "title": "Eat it up — solo arm-swing dance",
+          "author": "shelbyjanero",
+          "kind": "hands",
+          "original_watched": true,
+          "motion_summary": "With a fixed camera, one performer sways shoulders and hips in place, crosses the forearms, lowers the hands, and waves side to side while repeatedly facing the camera; approximately 14 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": true,
+            "solo": true
+          },
+          "recreation_notes": "Suitable for a motion-transfer test using the original as the reference, preserving body rhythm while replacing the character. Check crossed arms, hands, and body edges. This is a recent recreation of an older pattern, not a new trend this week. No generation test has been run.",
+          "published_at": null,
+          "published_text": "20h ago",
+          "metrics": {
+            "comments": 5,
+            "likes": 228,
+            "shares": 1,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@notaudrina26/video/7686951860804308237",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: Audrina's two-person version uses the same audio and crossed-arm swing, with other people in the background. The page shows 9-19, demonstrating that this pattern did not first appear this week. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "music_name": "original sound - Audrina",
+          "motion_verified": true,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@shelbyjanero/video/7706775425162300702",
+          "source_kind": "chatgpt_work",
+          "assessment": "Motion candidate with original watched",
+          "assessment_note": "With a fixed camera, one performer sways shoulders and hips in place, crosses the forearms, lowers the hands, and waves side to side while repeatedly facing the camera; approximately 14 seconds.",
+          "observed_at": "2026-11-12T01:31:04+00:00"
+        },
+        {
+          "id": "tiktok-7703530440023444769",
+          "video_id": "7703530440023444769",
+          "url": "https://www.tiktok.com/@rosariodecre/video/7703530440023444769",
+          "title": "Bicep Heart — bent-arm hand heart",
+          "author": "rosariodecre",
+          "kind": "hands",
+          "original_watched": true,
+          "motion_summary": "The frame focuses on one person's upper arms and hands, flexing the elbows to display the upper arms before forming a heart above them with both hands; approximately 7 seconds.",
+          "checks": {
+            "fixed_camera": true,
+            "repetitive": false,
+            "solo": true
+          },
+          "recreation_notes": "A stable background, short duration, and clear final pose support key-pose constraints. Finger contact and bent wrists are difficult; test this after expression and outfit transitions. No generation test has been run.",
+          "published_at": null,
+          "published_text": "11-2",
+          "metrics": {
+            "comments": 448,
+            "likes": 76300,
+            "shares": 18600,
+            "views": null
+          },
+          "related_videos": [
+            {
+              "url": "https://www.tiktok.com/@pyaephyozaw870/video/7704245075324194069",
+              "original_watched": true,
+              "same_pattern": true,
+              "note": "Previously played and verified in this task: with the same audio, the performer flexes the arms and then forms a heart with both hands; clothing and background differ. Only one other creator is listed, below the three-creator verification threshold."
+            }
+          ],
+          "music_name": "âm thanh gốc - Chris Pham",
+          "motion_verified": false,
+          "trend_verified": false,
+          "source": "ChatGPT Work cloud browser",
+          "source_url": "https://www.tiktok.com/@rosariodecre/video/7703530440023444769",
+          "source_kind": "chatgpt_work",
+          "assessment": "Candidate awaiting verification",
+          "assessment_note": "The frame focuses on one person's upper arms and hands, flexing the elbows to display the upper arms before forming a heart above them with both hands; approximately 7 seconds.",
+          "observed_at": "2026-11-12T01:31:04+00:00"
+        }
+      ],
+      "ingestion_status": "imported"
+    },
+    {
+      "id": "3cb8eba660e24b90aec81eac57607543",
+      "status": "blocked",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-12T01:02:27.625061+00:00",
+      "finished_at": "2026-11-12T01:02:55.585890+00:00",
+      "found": 0,
+      "added": 0,
+      "message": "TikTok's public page returned no readable video list. Login or human verification may be required. Existing candidates were preserved.",
+      "sources": [
+        {
+          "name": "TikTok · easy solo hand dance trend",
+          "url": "https://www.tiktok.com/search?q=easy+solo+hand+dance+trend",
+          "status": "blocked",
+          "found": 0,
+          "total_links": 0,
+          "message": "The public page provided no video list. No attempt was made to bypass access restrictions."
+        },
+        {
+          "name": "TikTok · solo outfit transition trend",
+          "url": "https://www.tiktok.com/search?q=solo+outfit+transition+trend",
+          "status": "blocked",
+          "found": 0,
+          "total_links": 0,
+          "message": "The public page provided no video list. No attempt was made to bypass access restrictions."
+        },
+        {
+          "name": "TikTok · solo expression lip sync trend",
+          "url": "https://www.tiktok.com/search?q=solo+expression+lip+sync+trend",
+          "status": "blocked",
+          "found": 0,
+          "total_links": 0,
+          "message": "The public page provided no video list. No attempt was made to bypass access restrictions."
+        }
+      ]
+    },
+    {
+      "id": "2fc01939098048259db42a5e528f5815",
+      "status": "blocked",
+      "kind": "all",
+      "query": "",
+      "started_at": "2026-11-12T00:56:12.313395+00:00",
+      "finished_at": "2026-11-12T00:56:38.390608+00:00",
+      "found": 0,
+      "added": 0,
+      "message": "TikTok's public page returned no readable video list. Login or human verification may be required. Existing candidates were preserved.",
+      "sources": [
+        {
+          "name": "TikTok · easy solo hand dance trend",
+          "url": "https://www.tiktok.com/search?q=easy+solo+hand+dance+trend",
+          "status": "blocked",
+          "found": 0,
+          "total_links": 0,
+          "message": "The public page provided no video list. No attempt was made to bypass access restrictions."
+        },
+        {
+          "name": "TikTok · solo outfit transition trend",
+          "url": "https://www.tiktok.com/search?q=solo+outfit+transition+trend",
+          "status": "blocked",
+          "found": 0,
+          "total_links": 0,
+          "message": "The public page provided no video list. No attempt was made to bypass access restrictions."
+        },
+        {
+          "name": "TikTok · solo expression lip sync trend",
+          "url": "https://www.tiktok.com/search?q=solo+expression+lip+sync+trend",
+          "status": "blocked",
+          "found": 0,
+          "total_links": 0,
+          "message": "The public page provided no video list. No attempt was made to bypass access restrictions."
+        }
+      ]
+    }
+  ],
+  "last_attempt_at": "2026-11-16T14:31:12.979000+00:00",
+  "last_success_at": "2026-11-16T14:31:12.979000+00:00",
+  "work_imports": {
+    "work-tiktok-20261112T013104Z-7704859708200389902": "3f8b1c1e965c6bdb4e2aa62d5664177f4b4188cb0e4652526db2730fb82349c7",
+    "work-tiktok-20261112T140658Z-d02c989e": "2f440e348273e22c41cb3b476aaf274262e138159e45dde53425844de921907c",
+    "work-tiktok-50b2ab5b319448999ae70fc23c281d1f": "13f1e35e49f2b88a0e613c7255bddd7804b46e72fbcc034b7290212ccb3ff700",
+    "work-tiktok-42496ba06f294957b97fa8c6dd7d3ddc": "e7ef4bacfbd5a54872d6aee2266480cb1ba6d52fcadc83e19e6418b99b51fcd6",
+    "work-tiktok-58f0303583004adabe312c55789ab9b0": "033895ff0737f4a440632c2f0444bddb9fdf75ff1713e310b4c0f88a7236cb8b",
+    "work-tiktok-20261116T143112979Z-v2": "3e2ca714238977a7aa19d01100e6ee39277e4d28e0c930e41c2e69e639d44d6e"
+  },
+  "material_classification_imports": {
+    "2026-11-15T22:22:39.724000+00:00": "8cd3e17433a336f4ee0bcc3b43c3920f593ebf1d3c38b5039ecfc571ac1215ed"
+  },
+  "work_daily_selections": {
+    "2026-11-16": {
+      "kpop": "tiktok-7703568479311416583",
+      "virtual_idol": "tiktok-7708583073859915029"
+    }
+  }
+}

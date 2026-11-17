@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta name="color-scheme" content="light">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https://raw.githubusercontent.com; media-src 'self' https://raw.githubusercontent.com; connect-src 'self' https://api.github.com; frame-src https://www.tiktok.com; base-uri 'none'; form-action 'none'">
+  <meta name="description" content="Manage your workspace session, cloud services, and character assets.">
+  <title>Connections — Viral</title>
+  <link rel="icon" href="./mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./workspace.css">
+  <link rel="stylesheet" href="./create.css">
+  <link rel="stylesheet" href="./theme.css">
+  <script defer src="./workspace.js"></script>
+  <script defer src="./create.js"></script>
+</head>
+<body data-page="settings">
+  <a class="skip-link" href="#workspace-main">Skip to content</a>
+  <header class="workspace-header">
+    <a class="workspace-brand" href="./" aria-label="Viral home"><img src="./mark.svg" width="36" height="36" alt=""><span>Viral<span class="brand-period">.</span></span></a>
+    <nav aria-label="Main navigation"><a href="./">Discover</a><a data-workspace href="./create.html">Studio</a><a data-workspace href="./review.html">Review<span data-review-count hidden></span></a><a href="./gallery.html">Library</a><a data-workspace href="./settings.html" aria-current="page">Connections</a></nav>
+    <a data-workspace href="./settings.html" class="session-link" data-session-label>Connect workspace ↗</a>
+  </header>
+  <main class="workspace-main" id="workspace-main">
+    <section class="page-heading">
+      <div><span class="eyebrow">YOUR CREATIVE TOOLKIT</span><h1>Good tools.<br>One connected space.</h1><p>Manage your workspace session, cloud services, and character assets.</p></div>
+      <div class="heading-actions"><button class="button" type="button" data-refresh>Refresh status <span aria-hidden="true">↻</span></button></div>
+    </section>
+    <p class="snapshot-note"><span aria-hidden="true">◷</span> Showing saved progress. New cloud results appear after this site is updated. <a href="https://github.com/yjr927/idore_tools/actions" target="_blank" rel="noopener noreferrer">View cloud activity ↗</a></p>
+    <p id="workspace-message" class="workspace-message" role="status" aria-live="polite"></p>
+    <div id="settings-root" aria-busy="true"><div class="empty-panel"><span class="empty-symbol" aria-hidden="true">✳</span>Loading your connections…</div></div>
+  </main>
+  <footer class="workspace-footer"><span>Viral<span class="brand-period">.</span> <span class="footer-tagline">A little inspiration. Your next big move.</span></span><a data-workspace href="./settings.html">Manage connections ↗</a></footer>
+  <noscript><p>Please enable JavaScript to use your creative workspace.</p></noscript>
+</body>
+</html>
